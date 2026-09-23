@@ -1,4 +1,3 @@
-<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 01-12-19" src="https://github.com/user-attachments/assets/e04b8404-0d44-4c80-a5e8-669c8e4cd503" />
 # Argent Media Converter
 
 **Conversor multimedia moderno para Linux** · GTK4 + Libadwaita · FFmpeg
