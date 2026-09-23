@@ -1,3 +1,4 @@
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 01-12-19" src="https://github.com/user-attachments/assets/e04b8404-0d44-4c80-a5e8-669c8e4cd503" />
 # Argent Media Converter
 
 **Conversor multimedia moderno para Linux** · GTK4 + Libadwaita · FFmpeg
@@ -10,6 +11,13 @@ Convierte audio y vídeo con interfaz limpia, conversión por lotes, filtros y *
 ![Plataforma](https://img.shields.io/badge/plataforma-Linux-orange)
 
 ---
+
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 01-12-19" src="https://github.com/user-attachments/assets/52a68451-a54d-4fec-a922-0ef48a9139ad" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 01-12-32" src="https://github.com/user-attachments/assets/51cf994e-6d6f-4f59-9441-707093adfb1c" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 01-12-46" src="https://github.com/user-attachments/assets/6c75d7d4-915f-497a-bae4-62f2931ec998" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 01-12-59" src="https://github.com/user-attachments/assets/b8c87dfd-0771-4751-91f9-4bc072edcd78" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-23 01-13-39" src="https://github.com/user-attachments/assets/66a0e697-1572-449a-98a3-98700edd3a37" />
+
 
 ## Características
 
@@ -51,7 +59,7 @@ sudo apt install mesa-va-drivers
 ### Opción A — Paquete `.deb` (recomendado en Ubuntu/Debian)
 
 ```bash
-sudo apt install ./argent-media-converter_2.1.2-1_all.deb
+sudo apt install ./argent-media-converter_2.1.4-1_all.deb
 ```
 
 Después buscá **Argent Media Converter** en el menú de aplicaciones.
@@ -59,8 +67,8 @@ Después buscá **Argent Media Converter** en el menú de aplicaciones.
 ### Opción B — AppImage (portable)
 
 ```bash
-chmod +x Argent_Media_Converter-2.1.2-x86_64.AppImage
-./Argent_Media_Converter-2.1.2-x86_64.AppImage
+chmod +x Argent_Media_Converter-2.1.4-x86_64.AppImage
+./Argent_Media_Converter-2.1.4-x86_64.AppImage
 ```
 
 Si en **Ubuntu 24.04+** no abre al hacer doble clic:
@@ -68,7 +76,7 @@ Si en **Ubuntu 24.04+** no abre al hacer doble clic:
 ```bash
 sudo apt install libfuse2t64
 # o sin FUSE:
-./Argent_Media_Converter-2.1.2-x86_64.AppImage --appimage-extract-and-run
+./Argent_Media_Converter-2.1.4-x86_64.AppImage --appimage-extract-and-run
 ```
 
 > El AppImage usa Python, GTK y FFmpeg del sistema (no los embebe).  
